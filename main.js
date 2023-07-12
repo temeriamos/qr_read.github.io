@@ -25,6 +25,7 @@
     document.getElementById("resultado").innerHTML =
     '<span class="result">' + decodedText + decodedResult + "</span>";
   };
+  
 
   const config = {
     fps: 10,
