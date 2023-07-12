@@ -20,7 +20,7 @@
   html5QrcodeScanner.render(onScanSuccess, onScanFailure);
   */
 
-  const html5QrCode = new Html5Qrcode("reader")
+  const html5QrCode = new Html5QrcodeScanner("reader")
   const qrCodeSuccessCallback = (decodedText, decodedResult) => {
     document.getElementById("resultado").innerHTML =
     '<span class="result">' + decodedText + decodedResult + "</span>";
