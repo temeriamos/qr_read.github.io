@@ -12,5 +12,5 @@ Lector codigo QR, bar code, and other common code scanning, de aplicaciones web.
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/nU9VN9t)
+![App Screenshot](https://i.imgur.com/nU9VN9t.png)
 
